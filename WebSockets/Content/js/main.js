@@ -1,0 +1,1 @@
+﻿var ws = new WebSocket('ws://www.websocket.org');
